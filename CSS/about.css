@@ -3,7 +3,6 @@
 
 body {
   background: #2d1948;
-  overflow-x: hidden;
 }
 
 [class*=__container] {
