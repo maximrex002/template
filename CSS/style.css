@@ -1,5 +1,6 @@
-@import url(./fonts.css);
-@import url(./nullStyles.css);
+@import url(../CSS/nullStyles.css);
+@import url(../CSS/fonts.css);
+
 
 
 
@@ -33,7 +34,7 @@ body {
 
   opacity: 50;
 
-  top: -50px;
+  top: -70px;
   right: -120px;
 }
 
@@ -330,7 +331,7 @@ body {
 /* our-work-process */
 
 .our-work-process {
-  background: url(/ASSETS/IMG/see__work.png);
+  background: url(../ASSETS/IMG/see__work.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -448,7 +449,7 @@ body {
 
 /* contact */
 .contact {
-  background: url(/ASSETS/IMG/bg_contact1.png);
+  background: url(../ASSETS/IMG/bg_contact1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: fixed center;

@@ -1,6 +1,5 @@
-@import url(./fonts.css);
-@import url(./nullStyles.css);
-
+@import url(../CSS/nullStyles.css);
+@import url(../CSS/fonts.css);
 
 body {
   background: #2d1948;
